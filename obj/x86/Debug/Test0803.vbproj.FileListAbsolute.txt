@@ -1,0 +1,25 @@
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\bin\Debug\Test0803.exe
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\bin\Debug\Test0803.pdb
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\bin\Debug\Test0803.xml
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.Resources.resources
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.vbproj.GenerateResource.Cache
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.exe
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.xml
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.pdb
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.Btn_ChangePage.resources
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.UserControl1.resources
+C:\Users\mis002\AppData\Local\Temporary Projects\Test0803\obj\x86\Debug\Test0803.UserControl2.resources
+C:\Users\mis002\Desktop\Test0803\obj\x86\Debug\Test0803.exe
+C:\Users\mis002\Desktop\Test0803\obj\x86\Debug\Test0803.xml
+C:\Users\mis002\Desktop\Test0803\obj\x86\Debug\Test0803.pdb
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.exe
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.xml
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.pdb
+C:\Users\mis002\Desktop\ElijahMao\Test0803\bin\Debug\Test0803.exe
+C:\Users\mis002\Desktop\ElijahMao\Test0803\bin\Debug\Test0803.pdb
+C:\Users\mis002\Desktop\ElijahMao\Test0803\bin\Debug\Test0803.xml
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.Btn_ChangePage.resources
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.Resources.resources
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.UserControl1.resources
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.UserControl2.resources
+C:\Users\mis002\Desktop\ElijahMao\Test0803\obj\x86\Debug\Test0803.vbproj.GenerateResource.Cache
